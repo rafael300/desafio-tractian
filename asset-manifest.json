@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/desafio-tractian/static/css/main.4f0ab4ff.chunk.css",
+    "main.js": "/desafio-tractian/static/js/main.f2b0bc36.chunk.js",
+    "main.js.map": "/desafio-tractian/static/js/main.f2b0bc36.chunk.js.map",
+    "runtime-main.js": "/desafio-tractian/static/js/runtime-main.80528c8f.js",
+    "runtime-main.js.map": "/desafio-tractian/static/js/runtime-main.80528c8f.js.map",
+    "static/js/2.03bfba91.chunk.js": "/desafio-tractian/static/js/2.03bfba91.chunk.js",
+    "static/js/2.03bfba91.chunk.js.map": "/desafio-tractian/static/js/2.03bfba91.chunk.js.map",
+    "index.html": "/desafio-tractian/index.html",
+    "static/css/main.4f0ab4ff.chunk.css.map": "/desafio-tractian/static/css/main.4f0ab4ff.chunk.css.map",
+    "static/js/2.03bfba91.chunk.js.LICENSE.txt": "/desafio-tractian/static/js/2.03bfba91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80528c8f.js",
+    "static/js/2.03bfba91.chunk.js",
+    "static/css/main.4f0ab4ff.chunk.css",
+    "static/js/main.f2b0bc36.chunk.js"
+  ]
+}
